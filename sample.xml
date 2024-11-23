@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LibraryCatalog>
+    <Book>
+        <Title>The Great Gatsby</Title>
+        <Author>F. Scott Fitzgerald</Author>
+        <ISBN>9780743273565</ISBN>
+        <Publisher>Scribner</Publisher>
+        <YearPublished>1925</YearPublished>
+    </Book>
+    <Book>
+        <Title>To Kill a Mockingbird</Title>
+        <Author>Harper Lee</Author>
+        <ISBN>9780060935467</ISBN>
+        <Publisher>J.B. Lippincott & Co.</Publisher>
+        <YearPublished>1960</YearPublished>
+    </Book>
+    <Book>
+        <Title>1984</Title>
+        <Author>George Orwell</Author>
+        <ISBN>9780451524935</ISBN>
+        <Publisher>Signet Classics</Publisher>
+        <YearPublished>1950</YearPublished>
+    </Book>
+</LibraryCatalog>
